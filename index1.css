@@ -1,0 +1,274 @@
+*{
+    margin: 0px;
+}
+.top-main{
+    background-color: rgb(39, 39, 39);
+    color: rgba(255, 255, 255, 0.87);
+    margin-left: 180px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.top-main li{
+    display: inline;
+     margin-left: 30px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    vertical-align: middle;
+}
+.top-main ul{
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: -30px;
+    font-size: 13px;
+}
+.main-img img{
+    width: 100%;
+    height: 100%;
+}
+
+nav{
+    position: fixed;
+}
+.sec img{
+    width: 900px;
+    margin-left: -350px;
+   
+}
+.sec-text h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 30px;
+
+}
+.sec-text h4{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+   padding-top: 30px;
+   margin-left: 30px;
+}
+
+.sec-main{
+    display: flex;
+    margin-top: 50px;
+}
+.sec-text{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.image-sec{
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -70px;
+   
+}
+.heading{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-top: 50px;
+}
+.third-sec1 h5{
+    color: rgb(250, 41, 41);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+.third-sec1 h2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+.third-sec2 h5{
+    color: rgb(250, 41, 41);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.third-sec2 h2{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.third-main{
+    display: flex;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.btn{
+   border-style: 1px solid white;
+   border-radius: 5px;
+   width: 162px;
+   background-color:rgb(78, 188, 231);
+   padding: 10px;
+   margin-top: 70px;
+   margin-left: 583px;
+   
+   
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.fourth-main{
+  display: flex;
+    padding-top: 60px;
+    background-image: url('Images/Clash of Clans HD Wallpaper.png');
+   height: 700px;
+    margin-top: 80px;
+   
+}
+.fourth-sec2 img{
+    width: 600px;
+    padding-top: 100px;
+   
+}
+.fourth-sec1 h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 40px;
+    color:white;
+    padding-top: 230px;
+}
+.fourth-sec1 h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     margin-left: 40px;
+     padding-top: 20px;
+     color:white ;
+
+
+}
+.fourth-sec1 h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+    padding-top: 40px;
+    color: white ;
+}
+.icons{
+    margin-left: 40px;
+    font-size: 30px;
+    padding-top: 30px;
+    color: white;
+    
+}
+.fourth-sec1{
+    margin-left: 50px;
+}
+.fifth-sec1 img{
+    width: 600px;
+   
+}
+.fifth-sec2 img{
+    width: 604px;
+    margin-left: 45px;
+}
+.fifth-main{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.fifth-text{
+    display: flex;
+    padding-top: 35px;
+    
+}
+.fifth-text1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.fifth-text3{
+    margin-left: 46px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.fifth-text2{
+    margin-left: 263px;
+    
+}
+.fifth-text4{
+    margin-left: 214px;
+}
+.final-sec{
+    display: flex;
+     margin-top: 210px;
+    width: 100%;
+    height: 179px;
+    background-color: #2887f0;
+
+}
+.final-sec1{
+    text-align: center;
+    margin-left: 85px;
+    margin-top: 60px;
+}
+.final-sec2 img{
+    width: 350px;
+    margin-left: 400px;
+    margin-bottom: 100px;
+    margin-top: calc(-150px);
+
+}
+.final-sec1 button{
+    width: 200px;
+    height: 40px;
+    border: 0px;
+    border-radius: 10px;
+}
+.final-sec1 h1{
+    margin-bottom: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer{
+    background-color: black;
+    display: flex;
+    padding-top: 60px;
+}
+.footer h5{
+    color: white;
+    padding-bottom: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.image-logo1{
+   width: 160px;
+}
+.image-logo2{
+    width: 165px;
+    height: 53px;
+    margin-left: 20px;
+}
+.footer-sec2{
+    margin-left: 650px;
+}
+.footer-sec1{
+    margin-left: 70px;
+}
+.second-footer{
+ background-color: black;
+ padding-top: 40px;
+ height: 250px;
+
+}
+.second-footer hr{
+    margin-left: 71px;
+    margin-right: 82px;
+    color:grey;
+}
+.second-footer li{
+    color: rgb(219, 216, 216);
+    display: inline;
+    padding-left: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 13px;
+}
+.second-footer ul{
+    margin-left: 14px;
+    margin-top: 50px;
+}
+.second-footer img{
+    width: 55px;
+    margin-left: 80%;
+}
+.second-footer-text li{
+    color:rgba(128, 128, 128, 0.836);
+}
+.second-footer-text ul{
+    margin-left: 15px;
+}
+
+
+
+
